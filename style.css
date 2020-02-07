@@ -41,7 +41,7 @@ a:hover{
   letter-spacing: 0.1em;
 }
 #header a:hover{
-  color: rgb(191, 152, 31)
+  color: rgb(156, 132, 217)
 }
 #header_title{
   display: block;
@@ -74,6 +74,12 @@ a:hover{
 .article{
   padding: 15px 0;
 }
+
+.icon{
+  align: middle;
+  padding-left: 30px;
+}
+
 #intro{
 
 }
